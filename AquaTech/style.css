@@ -106,7 +106,7 @@ body {
 }
 
 .login {
-    height: 78vh;
+    height: 84vh;
     background-image: url('./imagens/bg-jelly-fish-para_outras_pags.png');
     background-size: cover;
 }
@@ -182,4 +182,24 @@ body {
 .header a {
     text-decoration: none;
     color: #e3b062;
+}
+
+.header .container h1 {
+    color: #32b9cd;
+}
+
+.cadastro {
+    height: 82vh;
+    background-image: url('./imagens/bg-jelly-fish-para_outras_pags.png');
+    background-size: cover;
+}
+
+.cadastro .container {
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.cadastro .card {
+    height: 90%;
 }
